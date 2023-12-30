@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Release"/>
+    <Units Count="26">
+      <Unit0>
+        <Filename Value="example.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="41" Y="29"/>
+        <UsageCount Value="108"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="..\src\fafafa.watch.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="fafafa.Watch"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="19"/>
+        <UsageCount Value="108"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="..\src\fafafa.Watch.Windows.inc"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="53" Y="58"/>
+        <UsageCount Value="108"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="..\src\fafafa.Watch.Unix.inc"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="42" Y="31"/>
+        <UsageCount Value="108"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="D:\devtools\lazarus2012\configs\onlinepackagemanager\packages\Indy10\System\IdGlobal.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="6039"/>
+        <CursorPos X="17" Y="6001"/>
+        <UsageCount Value="2"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="D:\devtools\lazarus2012\fpc\3.2.0\source\packages\ptc\src\core\timeri.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="88"/>
+        <CursorPos X="28" Y="188"/>
+        <UsageCount Value="31"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="D:\devtools\lazarus2012\fpc\3.2.0\source\packages\fv\src\time.pas"/>
+        <UnitName Value="Time"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="2"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="D:\devtools\lazarus2012\fpc\3.2.0\source\packages\fcl-base\src\fptimer.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="91"/>
+        <UsageCount Value="2"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="D:\devtools\lazarus2012\fpc\3.2.0\source\packages\winunits-jedi\src\jwawinbase.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="5525"/>
+        <CursorPos X="58" Y="5563"/>
+        <UsageCount Value="2"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="D:\devtools\lazarus2012\fpc\3.2.0\source\rtl\win\wininc\redef.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="711"/>
+        <CursorPos X="136" Y="750"/>
+        <UsageCount Value="2"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="D:\devtools\lazarus2012\fpc\3.2.0\source\packages\winunits-jedi\src\jwawintype.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="88"/>
+        <CursorPos X="3" Y="126"/>
+        <UsageCount Value="2"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="D:\devtools\lazarus2012\fpc\3.2.0\source\rtl\win\wininc\struct.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2194"/>
+        <CursorPos Y="2232"/>
+        <UsageCount Value="2"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="D:\devtools\lazarus2012\configs\onlinepackagemanager\packages\Indy10\System\IdWinsock2.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="266"/>
+        <CursorPos X="24" Y="304"/>
+        <UsageCount Value="2"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="D:\devtools\lazarus2012\configs\onlinepackagemanager\packages\synapse40.1\blcksock.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2720"/>
+        <CursorPos X="3" Y="2752"/>
+        <UsageCount Value="2"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="D:\devtools\lazarus2012\configs\onlinepackagemanager\packages\synapse40.1\sswin32.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="324"/>
+        <CursorPos X="3" Y="362"/>
+        <UsageCount Value="2"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="D:\devtools\lazarus2012\fpc\3.2.0\source\packages\libc\src\timeh.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="82" Y="15"/>
+        <UsageCount Value="31"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="D:\devtools\lazarus2012\fpc\3.2.0\source\rtl\linux\linux.pp"/>
+        <UnitName Value="Linux"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="432"/>
+        <CursorPos X="58" Y="470"/>
+        <UsageCount Value="31"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="D:\devtools\lazarus2012\fpc\3.3.1\source\packages\libc\src\timeh.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="31" Y="34"/>
+        <UsageCount Value="10"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="D:\devtools\lazarus2012\fpc\3.2.0\source\rtl\unix\unixtype.pp"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="5" Y="21"/>
+        <UsageCount Value="2"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="D:\devtools\lazarus2012\fpc\3.2.0\source\packages\rtl-console\src\inc\crth.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="7" Y="22"/>
+        <UsageCount Value="4"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="D:\devtools\lazarus2012\fpc\3.2.0\source\packages\rtl-console\src\win\crt.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1012"/>
+        <CursorPos X="45" Y="1085"/>
+        <UsageCount Value="3"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="D:\devtools\lazarus2012\fpc\3.2.0\source\packages\ncurses\src\ncurses.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2720"/>
+        <UsageCount Value="3"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="D:\devtools\lazarus2012\fpc\3.2.0\source\rtl\unix\baseunix.pp"/>
+        <UnitName Value="BaseUnix"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="5" Y="22"/>
+        <UsageCount Value="24"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="D:\devtools\lazarus2012\fpc\3.2.0\source\rtl\inc\systemh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="70"/>
+        <CursorPos X="3" Y="111"/>
+        <UsageCount Value="7"/>
+      </Unit23>
+      <Unit24>
+        <Filename Value="..\..\..\..\fafafa.Watch\src\fafafa.watch.pas"/>
+        <UnitName Value="fafafa.Watch"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="239"/>
+        <UsageCount Value="7"/>
+      </Unit24>
+      <Unit25>
+        <Filename Value="D:\devtools\lazarus\nextgen\fpcsrc\rtl\objpas\sysutils\sysstrh.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="43" Y="27"/>
+        <UsageCount Value="7"/>
+      </Unit25>
+    </Units>
+    <JumpHistory Count="3" HistoryIndex="2">
+      <Position1>
+        <Filename Value="example.lpr"/>
+        <Caret Line="143" Column="15" TopLine="88"/>
+      </Position1>
+      <Position2>
+        <Filename Value="example.lpr"/>
+        <Caret Line="181" Column="173" TopLine="112"/>
+      </Position2>
+      <Position3>
+        <Filename Value="example.lpr"/>
+        <Caret Line="29" Column="41"/>
+      </Position3>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="example.lpr"/>
+        <Line Value="26"/>
+      </Item>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>
